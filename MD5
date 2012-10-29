@@ -1,4 +1,4 @@
-5523652c78f6a9f9d1ab86ff917b6635 *DESCRIPTION
+abb6d694a105fbbc8de1d6ff8f501a07 *DESCRIPTION
 5b7b0b67646400d7a3efaea341f29e5d *NAMESPACE
 9f6023b7d1606ce4f33eecd2253b2436 *R/absDir.R
 a913b32fe23067cbd0defe2d08812a89 *R/author.R
@@ -23,7 +23,7 @@ a42faf2d16e533ebb649ccc8018de236 *R/logWrite.R
 0d06c0db7acaf36a4ba3b17a09969df8 *R/repoInfo.R
 f34bfd6567a59afdf1fcd597aea45f9d *R/revision.R
 b68bd5418261157305b7b7de1f4bdc48 *R/svnDate.R
-55cf1291c81ee1d7b210b027fff80032 *R/zzz.R
+ffa13dfa0ec6512ee3ab4bf2fc06297a *R/zzz.R
 66a38b55208fb101dad54ad1046ebc02 *inst/review.R
 fe7b7df398875ab9ef80fca7f8368eab *man/absDir.Rd
 da90c7401f8de332f239a3aab005736e *man/author.Rd
@@ -46,6 +46,6 @@ ab3f9166941b3339da1b4f826dc1f5c0 *man/logSummary.Rd
 f4d68ea1b2d56c0c5d31193c6ac91d5c *man/parentDir.Rd
 973bab33ea0670da2e59b802de4d6727 *man/relPath.Rd
 507322abf2273af29226a02669fc8f6c *man/repoInfo.Rd
-555aede4a2a5ca094430b1884f83b15a *man/review-package.Rd
+2eff13fd08115b981603324db4da51a3 *man/review-package.Rd
 4cfb75732917a68641766021219e201e *man/revision.Rd
 a7904f3ff444470ba49736365aeddc28 *man/svnDate.Rd
